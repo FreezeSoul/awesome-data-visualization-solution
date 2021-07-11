@@ -1,15 +1,15 @@
 <h1 align="center">Awesome Data Visualization Solution</h1>
-<p align="center"><i>收集了市场上的一系列数据可视化解决方案，包括软件、平台及服务等。</i></p>
+<p align="center"><i>收集了市场上的一系列数据可视化解决方案，包括软件、平台及组件等。</i></p>
 
 > 打个广告：我们的数据可视化产品DataColour2.x也上线了，平台具备了可视化项目快速落地的支撑能力，推荐试用 - [DataColour数据可视化平台产品介绍](http://doc.datacolour.cn/zh/dvp/product-description)
 
-# 国外
+# 国外产品
 
 - [Tableau](https://www.tableau.com)：国外知名度很高的BI（商业智能）工具，做可视化的人都知道的产品，国内很多可视化工具都是效仿了其产品。:checkered_flag:*是一个可视化分析平台，它改变了我们使用数据解决问题的方式，使个人和组织能够充分利用自己的数据。*
 - [Power BI](https://powerbi.microsoft.com)：微软提供的数据可视化解决方案，集成微软了一系列的产品，简单强大，符合微软一贯特色。:checkered_flag:*使用面向所有人的商业智能创造数据驱动型文化，借助最新的分析方法，使组织中的各级员工都可以做出有把握的决定。*
 - [QlikView](https://www.qlik.com)：前端交互性比较灵活、展示样式多样化，关联查询功能使其具有独特的数据钻取特性，可以让自助数据分析和所有信息都有一个灵活的直观的展现。:checkered_flag:*端到端的复合云数据集成与分析方案，将原始数据转化为卓著的业务洞察。缩短数据，洞察与行动之间的距离。*
 
-# 国内
+# 国内产品
 
 - [阿里DataV](https://www.alibabacloud.com/zh/product/datav)：阿里云出品的数据可视化工具，效果案例如双十一的大屏，不用多说值得推荐。:checkered_flag:*数据可视化DataV是阿里云一款数据可视化应用搭建工具，旨让更多的人看到数据可视化的魅力，帮助非专业的工程师通过图形化的界面轻松搭建专业水准的可视化应用，满足您会议展览、业务监控、风险预警、地理信息分析等多种业务的展示需求。*
 - [阿里QuickBI](https://www.aliyun.com/product/bigdata/bi)：阿里云的BI工具，是一个致力大数据高效分析与展现的轻量级自助BI工具服务平台。:checkered_flag:*阿里云上客户都在用的BI产品（中国唯一入选Gartner ABI魔力象限BI），无缝对接各类云上数据库和自建数据库，大幅提升数据分析和报表开发效率，0代码鼠标拖拽式操作交互，让业务人员也能轻松实现海量数据可视化分析。*
@@ -57,7 +57,7 @@
 - [PageNow](http://pagenow.cn)：基于SpringBoot+Vue构建的数据可视化开发平台，满足你对数据大屏页面的一切想象。
 - [Davinci](https://edp963.github.io/davinci/)：Davinci 是一个 DVaaS（Data Visualization as a Service）平台解决方案，面向业务人员/数据工程师/数据分析师/数据科学家，致力于提供一站式数据可视化解决方案。既可作为公有云/私有云独立部署使用，也可作为可视化插件集成到三方系统。
 
-# 开源
+# 开源方案
 
 - [kibana](https://github.com/elastic/kibana)：Elasticsearch 专用的数据分析检索仪表盘。ELK Stack 中的 K。日志系统常见的可视化开源解决方案。使用 Nodejs+AnglarJs+React 开发,元数据存储在 ES 的一个索引中。Elastic公司维护开源，社区非常活跃，持续迭代中。
 - [grafana](https://github.com/grafana/grafana)：可视化仪表盘和图形编辑器，是一款常用的指标分析和监控工具。支持Graphite、Elasticsearch、OpenTSDB、Prometheus 和 InfluxDB 作为数据源。使用 Golang+TypeScript+AngularJS 开发，元数据支持 mysql 和 postgres。Grafana Labs 公司维护，社区非常活跃，持续迭代中。
@@ -76,7 +76,41 @@
 - [DataV-Team](https://github.com/DataV-Team/DataV)：Vue/React数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用。
 - [AJ-Report](https://gitee.com/anji-plus/report)：AJ-Report是一个完全开源，拖拽编辑的可视化设计工具。三步快速完成大屏：配置数据源---->写SQL配置数据集---->拖拽生成大屏。让管理层随时随地掌控业务动态，让每个决策都有数据支撑。
 - [react-big-screen](https://gitee.com/MTrun/react-big-screen)：一个基于 React、Dva、DataV、ECharts 框架的 " 数据大屏项目 "。支持数据动态刷新渲染、屏幕适配、数据请求模拟、局部样式、图表自由替换/复用等功能。
+- [CharFun](https://github.com/ddiu8081/ChartFun)：数据大屏可视化编辑器，功能不太完整，可供参考。
+- [DataVisual](https://github.com/wangyapu/DataVisual)：数据可视化平台；技术支持：SSH框架，R语言,Echarts,D3；主要功能：上传数据集、数据源格式转换、数据清洗、数据统计、聚类、关联、决策树、社会网络可视化。
+- [h5-Dooring](https://github.com/MrXujiang/h5-Dooring)：H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react和typescript为主， 后台采用nodejs开发。
+- [luban-h5](https://github.com/ly525/luban-h5)：类似易企秀的H5制作、建站工具、可视化搭建系统。
 
-PS：我们的数据可视化Dashboard1.x目前也是开源，有需要的也可以参考一下：[Dashboard1.x](https://gitee.com/DataColour/DashboardClient)
+# 开源组件
+
+- [D3.js](https://github.com/d3)：2011年，Mike Bostock、Vadim Ogievetsky 和 Jeff Heer 发布了 D3，它是目前 Web 端评价最高的 Javascript 可视化工具库。不仅可用于数据可视化，还包括动画、数据分析、地理和数据实应用。
+- [Echarts](https://github.com/ecomfe/echarts)：百度出品的可视化图表组件，可以说是目前国内应用最广的可视化组件库。它也提供英文版本，适用于大数据集。它还支持 SVG 和 Canvas 渲染。目前也已经成为apache顶级项目。
+- [Highcharts](https://github.com/highcharts/highcharts)：在echarts之前大家的首选图表组件，发布于 2009 年的 JS 库，基于 SVG ，支持旧版浏览器的 VML 和 Canvas。 它提供了不同的项目模板。
+- [Chart.js](https://github.com/chartjs/Chart.js)：一个非常受欢迎的开源库，轻量级，允许你用 HTML5 Canvas 元素构建响应式图表。
+- [antv](https://antv.vision/)：蚂蚁集团数据可视化团队出品的数据可视化组件，包括一系列产品。G2：数据驱动，高度易用，可扩展的可视化图形语法。F2：专注于移动端的可视化解决方案，兼容 H5/小程序/Weex 等多端环境。G6：便捷的关系数据可视化引擎与图分析工具。X6：极易定制、开箱即用、数据驱动的图编辑引擎。L7：高性能/高渲染质量的地理空间数据可视化框架。AVA：AVA 是为了更简便的可视分析而生的技术框架。
+- [Three.js](https://github.com/mrdoob/three.js)：不用多说，最流行3D图形库，该项目的灵活性和抽象性意味着它也可用于 2 维或 3 维的数据可视化。
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js)：是微软出品的 3D 引擎，主要以游戏开发和易用性为主。由于其3D方面出众的能力，同样也常用于3D可视化项目。
+- [Cesium](https://github.com/CesiumGS/cesium)：是一个基于JavaScript编写的使用WebGL的地图引擎。Cesium支持3D,2D,2.5D形式的地图展示，可以自行绘制图形，高亮区域，并提供良好的触摸支持，也是一个非常流行的地图可视化框架。
+- [Leaflet](https://github.com/Leaflet/Leaflet)：是一个非常流行的用于移动端渲染交互式地图开源JavaScript库。其除了具备绝大多少的地图操作功能，并且强大的开源库插件涉及到地图应用的各个方面包括地图服务，数据提供，数据格式，地理编码，路线和路线搜索，地图控件和交互等类型。
+- [raphael.js](http://raphaeljs.com/)：也是早年比较流行的一个矢量图形 Javascript 库。用 SVG W3C 推荐标准和 VML 作为创建图形的基础，通过 JavaScript 操作 DOM 来轻松创建出各种复杂的柱状图、饼图、曲线图等各种图表，还可以绘制任意形状的图形，可以进行图表或图像的裁剪和旋转等复杂操作。
+- [gridster.js](https://github.com/ducksboard/gridster.js)：一款基于 jQuery 的网格布局插件，可以从跨越多列的元素构建直观的可拖动布局，包括从网格中动态添加和删除元素。
+- [gridstack.js](https://github.com/troolee/gridstack.js)：可以用于仪表板布局的Typescript 库。可以轻松制作拖放式、多列响应式仪表板。可以很好地与 React、Vue、Angular 配合使用。
+- [jQueryGridly](https://github.com/ksylvest/jquery-gridly)：是一个 基于jQuery布局插件，可以在网格上进行拖放和调整大小。
+- [Packery](https://github.com/metafizzy/packery)：是一个 JavaScript 库和 jQuery 插件，可以实现无缝和可拖动的布局。 非常适合可拖动的仪表板和无缝的 Masonry 图像库。
+- [GridList](https://github.com/hootsuite/grid)：用于二维可调整大小和响应式项目列表的拖放库。
+- [dazzle](https://github.com/Raathigesh/dazzle)：是一个使用 React JS 构建仪表板的库，不依赖于任何前端库，但可以更轻松地与它们集成。
+- [Freewall](http://kombai.github.io/freewall/)：是一个跨浏览器和响应式 jQuery 插件，可帮助您创建多种类型的网格布局：灵活布局、图像布局、嵌套网格布局、metro 样式布局、pinterest 式布局。
+- [gridmanager.js](https://neokoenig.github.io/jQuery-gridmanager/)：可以让你在 Bootstrap 3.x 或 Foundation 5.x 等框架使用的网格布局中创建、重新排序、更新和删除行和列。通过它可以构建页面结构，用于 Web 应用程序、自定义 CMS 系统等。
+- [GoldenLayout](https://github.com/golden-layout/golden-layout)：是一个基于网格的多窗口布局管理器，非常适用于自定义的仪表板管理。
+- [Vue-Layout](https://github.com/jaweii/Vue-Layout)：基于UI组件的Vue可视化布局工具。
+- [visual-drag-demo](https://github.com/woai3c/visual-drag-demo)：可视化拖拽组件库 DEMO。
+- [Web-Editor](https://github.com/bojue/Web-Editor)：Web可视化组态编辑器(Angular8)。
+- [antd-visual-editor](https://github.com/yu-tou/antd-visual-editor)：一个 可视化实时渲染的 ant-design 页面搭建工具。ant-design 组件库实时可视化编辑器，实时生成 react 代码。
+- [form-create-designer](https://github.com/xaboy/form-create-designer)：基于 @form-create/element-ui 实现的表单设计器组件。可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率，节省开发者的时间。
+- [h5-editor](https://github.com/a7650/h5-editor)：h5可视化编辑器，支持添加图片/文本/形状等，拥有图层/参考线/标尺/自动吸附对齐等功能。
+- [BrickDesign](https://github.com/brick-design/brick-design)：全场景流式布局，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示，实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态。
+- [mita](https://github.com/chuxiaoguo/mita)：一个类似阿里dataV的项目dataVisual。
+
+PS：我们的数据可视化Dashboard1.x也有个开源版本，有需要的也可以参考一下：[Dashboard1.x](https://gitee.com/DataColour/DashboardClient)
 
 内容持续更新中...
