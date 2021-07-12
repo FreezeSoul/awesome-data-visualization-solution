@@ -73,6 +73,7 @@
 - [JimuReport](https://gitee.com/jeecg/JimuReport)：一款免费的数据可视化工具，报表与大屏设计！类似于excel操作风格，在线拖拽完成报表设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，永久免费！
 - [UReport2](https://gitee.com/youseries/ureport)：UReport2是一款高性能的Java报表引擎，提供完善的基于网页的报表设计器，可快速做出各种复杂的中式报表。
 - [DataGear](https://www.oschina.net/p/datagear)：DataGear是一款数据可视化分析平台，使用Java语言开发，采用浏览器/服务器架构，支持SQL、CSV、Excel、HTTP接口、JSON等多种数据源， 主要功能包括数据管理、SQL工作台、数据导入/导出、数据集管理、图表管理、看板管理等。
+- [DataEase](https://github.com/dataease/dataease)：开源的数据可视化分析工具，帮助用户快速分析数据并洞察业务趋势，从而实现业务的改进与优化。支持丰富的数据源连接，能够通过拖拉拽方式快速制作图表，并可以方便的与他人分享。
 - [DataV-Team](https://github.com/DataV-Team/DataV)：Vue/React数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用。
 - [AJ-Report](https://gitee.com/anji-plus/report)：AJ-Report是一个完全开源，拖拽编辑的可视化设计工具。三步快速完成大屏：配置数据源---->写SQL配置数据集---->拖拽生成大屏。让管理层随时随地掌控业务动态，让每个决策都有数据支撑。
 - [react-big-screen](https://gitee.com/MTrun/react-big-screen)：一个基于 React、Dva、DataV、ECharts 框架的 " 数据大屏项目 "。支持数据动态刷新渲染、屏幕适配、数据请求模拟、局部样式、图表自由替换/复用等功能。
