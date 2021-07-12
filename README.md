@@ -15,6 +15,7 @@
 - [阿里QuickBI](https://www.aliyun.com/product/bigdata/bi)：阿里云的BI工具，是一个致力大数据高效分析与展现的轻量级自助BI工具服务平台。:checkered_flag:*阿里云上客户都在用的BI产品（中国唯一入选Gartner ABI魔力象限BI），无缝对接各类云上数据库和自建数据库，大幅提升数据分析和报表开发效率，0代码鼠标拖拽式操作交互，让业务人员也能轻松实现海量数据可视化分析。*
 - [百度Sugar](https://cloud.baidu.com/product/sugar.html)：百度出品的数据可视化工具，自助式的BI报表分析和可视化数据大屏制作工具，组件丰富，开箱即用，无需SQL和任何编码。:checkered_flag:*百度智能云数据可视化解决方式是大数据时代，数据的价值被挖掘利用起来，真正助力企业的发展。数据可视化与自助分析，以极具视觉冲击力的方式，帮您轻松理解数据，让真正懂业务的人完成分析！*
 - [百度IotViz](https://cloud.baidu.com/product/iotviz.html)：百度的物联网数据可视化解决方案，用做PPT的方式，助您零编程完成可视化开发，带给您所见即所得的可视化开发体验。:checkered_flag:*无缝对接海量实时数据，零编程设计可视化仪表盘，完美支持手机/监控大屏展现，更有强大的定制和嵌入功能，让开发物联网可视化应用如此简单。*
+- [腾讯云图](https://cloud.tencent.com/product/tcv)：腾讯云图（Tencent Cloud Visualization，TCV） 是一站式数据可视化展示平台，旨在帮助用户快速通过可视化图表展示海量数据，10 分钟零门槛打造出专业大屏数据展示。精心预设多种行业模板，极致展示数据魅力。采用拖拽式自由布局，无需编码，全图形化编辑，快速可视化制作。腾讯云图支持多种数据来源配置，支持数据实时同步更新，同时腾讯云图基于 WEB 页面渲染，可灵活投屏多种屏幕终端。
 - [腾讯RayData](https://cloud.tencent.com/product/raydata)：腾讯的数据可视化产品为与[光启元科技](https://web.raykite.com/)联合开发的产品，产品在三维方面有一定的优势，效果比较酷玄。:checkered_flag:*腾讯云 RayData 基于独有的实时渲染技术，结合云计算、AI、IoT，将大规模数据融合呈现，实现云数据实时可视化、场景化以及交互，让使用者更加方便地进行数据的个性化管理与使用。*
 - [网易有数](https://youdata.163.com)：网易出品的数据可视化产品，拥有数据填报和自助式商业智能分析产品，提供网页端和手机端应用。:checkered_flag:*网易有数是一款大数据敏捷数据分析平台，让客户通过快速建立灵活、高 效、开放的数据分析方案，立刻发现数据价值。*
 - [华为DLV](https://www.huaweicloud.com/product/dlv.html)：作为大厂，华为的数据可视化产品也值得关注。:checkered_flag:*数据可视化服务（Data Lake Visualization）是一站式数据可视化平台，适配云上云下多种数据源，提供丰富多样的2D、3D可视化组件，采用拖拽式自由布局，旨在帮助您快速定制和应用属于您自己的数据大屏。*
@@ -82,18 +83,26 @@
 - [h5-Dooring](https://github.com/MrXujiang/h5-Dooring)：H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react和typescript为主， 后台采用nodejs开发。
 - [luban-h5](https://github.com/ly525/luban-h5)：类似易企秀的H5制作、建站工具、可视化搭建系统。
 
-# 开源组件
+# 视觉组件
 
 - [D3.js](https://github.com/d3)：2011年，Mike Bostock、Vadim Ogievetsky 和 Jeff Heer 发布了 D3，它是目前 Web 端评价最高的 Javascript 可视化工具库。不仅可用于数据可视化，还包括动画、数据分析、地理和数据实应用。
 - [Echarts](https://github.com/ecomfe/echarts)：百度出品的可视化图表组件，可以说是目前国内应用最广的可视化组件库。它也提供英文版本，适用于大数据集。它还支持 SVG 和 Canvas 渲染。目前也已经成为apache顶级项目。
 - [Highcharts](https://github.com/highcharts/highcharts)：在echarts之前大家的首选图表组件，发布于 2009 年的 JS 库，基于 SVG ，支持旧版浏览器的 VML 和 Canvas。 它提供了不同的项目模板。
 - [Chart.js](https://github.com/chartjs/Chart.js)：一个非常受欢迎的开源库，轻量级，允许你用 HTML5 Canvas 元素构建响应式图表。
 - [antv](https://antv.vision/)：蚂蚁集团数据可视化团队出品的数据可视化组件，包括一系列产品。G2：数据驱动，高度易用，可扩展的可视化图形语法。F2：专注于移动端的可视化解决方案，兼容 H5/小程序/Weex 等多端环境。G6：便捷的关系数据可视化引擎与图分析工具。X6：极易定制、开箱即用、数据驱动的图编辑引擎。L7：高性能/高渲染质量的地理空间数据可视化框架。AVA：AVA 是为了更简便的可视分析而生的技术框架。
+- [raphael.js](http://raphaeljs.com/)：也是早年比较流行的一个矢量图形 Javascript 库。用 SVG W3C 推荐标准和 VML 作为创建图形的基础，通过 JavaScript 操作 DOM 来轻松创建出各种复杂的柱状图、饼图、曲线图等各种图表，还可以绘制任意形状的图形，可以进行图表或图像的裁剪和旋转等复杂操作。
 - [Three.js](https://github.com/mrdoob/three.js)：不用多说，最流行3D图形库，该项目的灵活性和抽象性意味着它也可用于 2 维或 3 维的数据可视化。
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js)：是微软出品的 3D 引擎，主要以游戏开发和易用性为主。由于其3D方面出众的能力，同样也常用于3D可视化项目。
 - [Cesium](https://github.com/CesiumGS/cesium)：是一个基于JavaScript编写的使用WebGL的地图引擎。Cesium支持3D,2D,2.5D形式的地图展示，可以自行绘制图形，高亮区域，并提供良好的触摸支持，也是一个非常流行的地图可视化框架。
+- [deck.gl](https://github.com/visgl/deck.gl)：是Uber开发并开源的基于WebGL的地理大数据可视化框架，根据其官网的介绍其有以下三点优势：第一点由于是基于WebGL开发的可视化框架，前端大数据渲染的性能自然没的说，明显优于那些基于canvas 2D或者SVG的可视化库。第二点是其GPU渲染的高精度。第三点是该框架能与前端主流的React很好的集成。
 - [Leaflet](https://github.com/Leaflet/Leaflet)：是一个非常流行的用于移动端渲染交互式地图开源JavaScript库。其除了具备绝大多少的地图操作功能，并且强大的开源库插件涉及到地图应用的各个方面包括地图服务，数据提供，数据格式，地理编码，路线和路线搜索，地图控件和交互等类型。
-- [raphael.js](http://raphaeljs.com/)：也是早年比较流行的一个矢量图形 Javascript 库。用 SVG W3C 推荐标准和 VML 作为创建图形的基础，通过 JavaScript 操作 DOM 来轻松创建出各种复杂的柱状图、饼图、曲线图等各种图表，还可以绘制任意形状的图形，可以进行图表或图像的裁剪和旋转等复杂操作。
+- [SuperMapiClient](https://github.com/SuperMap/iClient-JavaScript)：是SuperMap提供的一套开源开放的 WebGIS 客户端应用开发包，基于现代 Web 技术栈全新构建，是 SuperMap 云 GIS 和在线 GIS 平台系列产品的统一 JavaScript 客户端。它集成了领先的开源地图库、可视化库，支持多源数据与地图服务，支持多终端，跨浏览器。提供了全新的 GIS 大数据可视化、实时流数据可视化等功能，通过本产品可快速实现浏览器上美观、流畅的地图呈现。
+- [MapboxGL](https://github.com/mapbox/mapbox-gl-js)：Mapbox GL JS是一个JavaScript库，使用WebGL渲染交互式矢量瓦片地图和栅格瓦片地图。WebGL渲染意味着高性能，MapboxGL能够渲染大量的地图要素，拥有流畅的交互以及动画效果、可以显示立体地图并且支持移动端，是一款十分优秀的WEB GIS开发框架。
+- [MapV](https://github.com/huiyan-fe/mapv)：是一款地理信息可视化开源库，可以用来展示大量地理信息数据，点、线、面的数据，每种数据也有不同的展示类型，如直接打点、热力图、网格、聚合等方式展示数据。
+
+# 布局组件
+
+- [Moveable](https://github.com/daybrush/moveable)：是一个强大的可拖动的、可调整大小的、可缩放的、可旋转的、可扭曲的、可捏合的、可分组的、可捕捉的布局组件。
 - [gridster.js](https://github.com/ducksboard/gridster.js)：一款基于 jQuery 的网格布局插件，可以从跨越多列的元素构建直观的可拖动布局，包括从网格中动态添加和删除元素。
 - [gridstack.js](https://github.com/troolee/gridstack.js)：可以用于仪表板布局的Typescript 库。可以轻松制作拖放式、多列响应式仪表板。可以很好地与 React、Vue、Angular 配合使用。
 - [jQueryGridly](https://github.com/ksylvest/jquery-gridly)：是一个 基于jQuery布局插件，可以在网格上进行拖放和调整大小。
@@ -103,14 +112,27 @@
 - [Freewall](http://kombai.github.io/freewall/)：是一个跨浏览器和响应式 jQuery 插件，可帮助您创建多种类型的网格布局：灵活布局、图像布局、嵌套网格布局、metro 样式布局、pinterest 式布局。
 - [gridmanager.js](https://neokoenig.github.io/jQuery-gridmanager/)：可以让你在 Bootstrap 3.x 或 Foundation 5.x 等框架使用的网格布局中创建、重新排序、更新和删除行和列。通过它可以构建页面结构，用于 Web 应用程序、自定义 CMS 系统等。
 - [GoldenLayout](https://github.com/golden-layout/golden-layout)：是一个基于网格的多窗口布局管理器，非常适用于自定义的仪表板管理。
+
+# 布局管理
+
+- [baidu-amis](https://github.com/baidu/amis)：百度前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [alibaba-formily](https://github.com/alibaba/formily)：阿里的表单解决方案——支持React/Vue2/Vue3。
 - [Vue-Layout](https://github.com/jaweii/Vue-Layout)：基于UI组件的Vue可视化布局工具。
 - [visual-drag-demo](https://github.com/woai3c/visual-drag-demo)：可视化拖拽组件库 DEMO。
 - [Web-Editor](https://github.com/bojue/Web-Editor)：Web可视化组态编辑器(Angular8)。
 - [antd-visual-editor](https://github.com/yu-tou/antd-visual-editor)：一个 可视化实时渲染的 ant-design 页面搭建工具。ant-design 组件库实时可视化编辑器，实时生成 react 代码。
-- [form-create-designer](https://github.com/xaboy/form-create-designer)：基于 @form-create/element-ui 实现的表单设计器组件。可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率，节省开发者的时间。
 - [h5-editor](https://github.com/a7650/h5-editor)：h5可视化编辑器，支持添加图片/文本/形状等，拥有图层/参考线/标尺/自动吸附对齐等功能。
 - [BrickDesign](https://github.com/brick-design/brick-design)：全场景流式布局，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示，实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态。
 - [mita](https://github.com/chuxiaoguo/mita)：一个类似阿里dataV的项目dataVisual。
+- [dragView](https://github.com/itanhang/dragView)：Jquery可视化拖拽，网页布局拖拽插件。
+- [layout-ui](https://github.com/0123cf/layout-ui)：在线可视化布局工具, 支持相对布局\ 绝对布局\ 弹性布局, 自适应可视化布局,适用于专业人员开发专业界面。
+- [VueJsonDesign](https://github.com/fyl080801/vjdesign)：Vue 界面可视化设计器，本设计器特色功能就是可以支持任何 vue 项目中被引用的组件，不需要二次开发就可以定义支持的组件以及组件的属性，并且对组件的属性和数据的关系以及表单的交互行为也可以通过设计器配置实现。
+- [form-generator](https://github.com/JakHuang/form-generator)：Element UI表单设计及代码生成器，可将生成的代码直接运行在基于Element的vue项目中；也可导出JSON表单，使用配套的解析器将JSON解析成真实的表单。
+- [form-create-designer](https://github.com/xaboy/form-create-designer)：基于 @form-create/element-ui 实现的表单设计器组件。可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率，节省开发者的时间。
+- [avue-form-design](https://github.com/sscfaith/avue-form-design)：基于 Avue 的表单设计器，拖拽式操作让你快速构建一个表单。
+- [gaea-editor](https://github.com/ascoders/gaea-editor)：帮助开发构建可扩展的网站可视化构建器。
+- [VvvebJs](https://github.com/givanz/VvvebJs)：拖放网站构建器 javascript 库。
+- [X-Page-Editor](https://github.com/OXOYO/X-Page-Editor-Vue):基于 Vue 的可视化布局编辑器插件。
 
 PS：我们的数据可视化Dashboard1.x也有个开源版本，有需要的也可以参考一下：[Dashboard1.x](https://gitee.com/DataColour/DashboardClient)
 
