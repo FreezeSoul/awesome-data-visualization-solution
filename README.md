@@ -82,6 +82,7 @@
 - [DataVisual](https://github.com/wangyapu/DataVisual)：数据可视化平台；技术支持：SSH框架，R语言,Echarts,D3；主要功能：上传数据集、数据源格式转换、数据清洗、数据统计、聚类、关联、决策树、社会网络可视化。
 - [h5-Dooring](https://github.com/MrXujiang/h5-Dooring)：H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react和typescript为主， 后台采用nodejs开发。
 - [luban-h5](https://github.com/ly525/luban-h5)：类似易企秀的H5制作、建站工具、可视化搭建系统。
+- [H5Editor](https://github.com/hyhajnal/h5-editor)：移动端页面 UI 生成器，用于将设计稿样式转化为组件化的代码。
 
 # 视觉组件
 
@@ -103,7 +104,7 @@
 # 布局组件
 
 - [Moveable](https://github.com/daybrush/moveable)：是一个强大的可拖动的、可调整大小的、可缩放的、可旋转的、可扭曲的、可捏合的、可分组的、可捕捉的布局组件。
-- [gridster.js](https://github.com/ducksboard/gridster.js)：一款基于 jQuery 的网格布局插件，可以从跨越多列的元素构建直观的可拖动布局，包括从网格中动态添加和删除元素。
+- [Gridster](https://github.com/ducksboard/gridster.js)：一款基于 jQuery 的网格布局插件，可以从跨越多列的元素构建直观的可拖动布局，包括从网格中动态添加和删除元素。
 - [gridstack.js](https://github.com/troolee/gridstack.js)：可以用于仪表板布局的Typescript 库。可以轻松制作拖放式、多列响应式仪表板。可以很好地与 React、Vue、Angular 配合使用。
 - [jQueryGridly](https://github.com/ksylvest/jquery-gridly)：是一个 基于jQuery布局插件，可以在网格上进行拖放和调整大小。
 - [Packery](https://github.com/metafizzy/packery)：是一个 JavaScript 库和 jQuery 插件，可以实现无缝和可拖动的布局。 非常适合可拖动的仪表板和无缝的 Masonry 图像库。
@@ -112,6 +113,9 @@
 - [Freewall](http://kombai.github.io/freewall/)：是一个跨浏览器和响应式 jQuery 插件，可帮助您创建多种类型的网格布局：灵活布局、图像布局、嵌套网格布局、metro 样式布局、pinterest 式布局。
 - [gridmanager.js](https://neokoenig.github.io/jQuery-gridmanager/)：可以让你在 Bootstrap 3.x 或 Foundation 5.x 等框架使用的网格布局中创建、重新排序、更新和删除行和列。通过它可以构建页面结构，用于 Web 应用程序、自定义 CMS 系统等。
 - [GoldenLayout](https://github.com/golden-layout/golden-layout)：是一个基于网格的多窗口布局管理器，非常适用于自定义的仪表板管理。
+- [React-Grid-Layout](https://github.com/react-grid-layout/react-grid-layout)：具有响应式的可拖动和可调整大小的网格布局，用于 React。
+- [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout)：Vue.js 的网格布局系统，如 Gridster，用于 Vue.js。受 React-Grid-Layout 的启发。
+- [angular-grid-layout](https://github.com/katoid/angular-grid-layout)：是一个网格布局系统，可拖动和可调整大小。它主要用于创建高度可定制的仪表板。
 
 # 布局管理
 
