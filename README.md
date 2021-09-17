@@ -1,7 +1,7 @@
 <h1 align="center">Awesome Data Visualization Solution</h1>
 <p align="center"><i>收集了市场上的一系列数据可视化解决方案，包括软件、平台及组件等。</i></p>
 
-> 打个广告：我们的数据可视化产品DataColour2.x也上线了，平台具备了可视化项目快速落地的支撑能力，推荐试用 - [DataColour数据可视化平台产品介绍](http://doc.datacolour.cn/zh/dvp/product-description)
+> 打个广告：我们的数据可视化产品DataColour2.x也上线了，平台具备了可视化项目快速落地的支撑能力，推荐试用 - [DataColour数据可视化平台](http://www.datacolour.cn/)
 
 # 国外产品
 
@@ -138,6 +138,9 @@
 - [VvvebJs](https://github.com/givanz/VvvebJs)：拖放网站构建器 javascript 库。
 - [X-Page-Editor](https://github.com/OXOYO/X-Page-Editor-Vue):基于 Vue 的可视化布局编辑器插件。
 
-PS：我们的数据可视化Dashboard1.x也有个开源版本，有需要的也可以参考一下：[Dashboard1.x](https://gitee.com/DataColour/DashboardClient)
+
+数据可视化DataColour2.x的开源版本在这里：[DataColour2.x](https://gitee.com/DataColour/DataColourDVP)
+
+数据可视化Dashboard1.x也就是2.x的前身在这里：[Dashboard1.x](https://gitee.com/DataColour/DashboardClient)
 
 内容持续更新中...
