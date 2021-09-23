@@ -48,6 +48,7 @@
 - [NBI-Dashboard](http://nbi.easydatavis.com:8033/)：为企业解决了数据孤岛，允许企业接入所有业务数据，通过简单、直观、多维、探索式分析来洞察业务经营状况，提升企业决策能力。
 - [简数科技](https://jianshukeji.com/index.html)：提供基础的图表、图形等数据可视化组件，针对 Dashboard 、数据报表、网页数据可视化等使用场景的一个完整的解决方案。
 - [莫奈数据可视化](https://monet.urban-computing.cn/monet-doc/)：莫奈-数据可视化平台聚焦于大屏场景下的数据可视化展示，平台通过简单的图表拖拉拽和数据配置即可完成数据大屏的配置。提供多种可视化图表，充分满足用户多样化的可视化需求。
+- [山海鲸数据可视化](https://www.shanhaibi.com/)：使用山海鲸可视化给您的客户制作和交付大屏项目，不仅可以降低开发难度和成本，同时也可以通过灵活的交付方案提升项目交付效率。
 - [UIPower](http://www.uipower.com/news/toolsintroduced.html):PowerUI Designer是一款界面可视化开发工具，提供丰富的界面控件和界面控件外观主题，可通过拖拽快速完成界面的设计和搭建工作。
 - [Ptmind](http://www.ptmind.com/):Ptmind 让你和团队轻松通过数据，获取源源不断的用户洞察，并帮助将洞察转化为实践，赋予团队强大的数据驱动力，让团队业绩实现持续且快速的增长。
 - [AnyReport](http://www.anyrt.com/):AnyReport报表 企业级数据收集、管理、统计分析平台；帮您快速搭建数据平台，对数据进行收集、审核、可视化、挖掘分析。
