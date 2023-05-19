@@ -60,6 +60,7 @@
 - [DataCool](https://www.bessystem.com/home)：异构数据源整合，图形化编辑，实时数据动态展示，充分体现数据的价值。
 - [PageNow](http://pagenow.cn)：基于SpringBoot+Vue构建的数据可视化开发平台，满足你对数据大屏页面的一切想象。
 - [Davinci](https://edp963.github.io/davinci/)：Davinci 是一个 DVaaS（Data Visualization as a Service）平台解决方案，面向业务人员/数据工程师/数据分析师/数据科学家，致力于提供一站式数据可视化解决方案。既可作为公有云/私有云独立部署使用，也可作为可视化插件集成到三方系统。
+- [数维图](https://www.sovitjs.com/): SovitChart是一款通过网页在线拖拽式页面的敏捷开发工具。可以用来制作可视化大屏界面、企业系统领导 驾驶舱页面、看板页面、图表式统计报表页面、大数据可视化页面及常用的可视化Web页面等。同时还可以用来配合售前人员进行案例快速制作、动态原型的快速制作，用来提供系统演示等。 产品包括：Sovit2D/Sovit3D/SovitChart
 
 # 开源方案
 
@@ -87,6 +88,7 @@
 - [datart](https://gitee.com/running-elephant/datart)：datart 是新一代数据可视化开放平台，支持各类企业数据可视化场景需求，如创建和使用报表、仪表板和大屏，进行可视化数据分析，构建可视化数据应用等。由原 davinci 主创团队出品，datart 更加开放、可塑和智能，并在数据与艺术之间寻求最佳平衡。
 - [luban-h5](https://github.com/ly525/luban-h5)：类似易企秀的H5制作、建站工具、可视化搭建系统。
 - [H5Editor](https://github.com/hyhajnal/h5-editor)：移动端页面 UI 生成器，用于将设计稿样式转化为组件化的代码。
+- [steedos-platform](https://github.com/steedos/steedos-platform/)：华炎魔方模型驱动低代码平台，Salesforce 开源替代方案，数据建模、权限管理、流程自动化。
 
 # 视觉组件
 
@@ -141,7 +143,8 @@
 - [gaea-editor](https://github.com/ascoders/gaea-editor)：帮助开发构建可扩展的网站可视化构建器。
 - [VvvebJs](https://github.com/givanz/VvvebJs)：拖放网站构建器 javascript 库。
 - [X-Page-Editor](https://github.com/OXOYO/X-Page-Editor-Vue):基于 Vue 的可视化布局编辑器插件。
-
+- [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor):一个可视化低代码表单编辑器。
+- [Tefact Engine](https://github.com/staringos/tefact): 星搭开源无代码编辑器，使用图形化界面生成 网站、H5和表单. 无需任何代码生成应用程序！
 
 数据可视化DataColour2.x的开源版本在这里：[DataColour2.x](https://gitee.com/DataColour/DataColourDVP)
 
