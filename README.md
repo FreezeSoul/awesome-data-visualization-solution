@@ -89,6 +89,7 @@
 - [luban-h5](https://github.com/ly525/luban-h5)：类似易企秀的H5制作、建站工具、可视化搭建系统。
 - [H5Editor](https://github.com/hyhajnal/h5-editor)：移动端页面 UI 生成器，用于将设计稿样式转化为组件化的代码。
 - [steedos-platform](https://github.com/steedos/steedos-platform/)：华炎魔方模型驱动低代码平台，Salesforce 开源替代方案，数据建模、权限管理、流程自动化。
+- [NocoBase](https://github.com/nocobase/nocobase) NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
 
 # 视觉组件
 
